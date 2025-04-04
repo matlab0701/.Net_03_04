@@ -10,8 +10,13 @@ public class Student
     public string FirstName { get; set; }
     [MaxLength(30)]
     public string? LastName { get; set; }
+
+    [EmailAddress]
+    [Required]
+    [MaxLength(120)]
+    public string Email { get; set; }
     public DateTimeOffset BirthDate { get; set; }
-    
+
     //navigations
     public Address Address { get; set; }
     public List<StudentGroup> StudentGroups { get; set; }

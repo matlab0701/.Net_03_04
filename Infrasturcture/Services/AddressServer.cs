@@ -1,6 +1,6 @@
 using System.Net;
 using Domain.Responses;
-using Infrastructure.Data;
+using Infrasturcture.Data;
 using Infrasturcture.Interfaces;
 using Microsoft.EntityFrameworkCore;
 

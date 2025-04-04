@@ -8,6 +8,7 @@ C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net
 C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrasturcture.AssemblyInfoInputs.cache
 C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrasturcture.AssemblyInfo.cs
 C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrasturcture.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrasturcture.sourcelink.json
 C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrastu.B4844EC0.Up2Date
 C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrasturcture.dll
 C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\refint\Infrasturcture.dll

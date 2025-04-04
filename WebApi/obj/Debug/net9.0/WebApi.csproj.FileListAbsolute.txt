@@ -120,6 +120,7 @@ C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\WebApi\obj\Debug\net9.0\WebA
 C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\WebApi\obj\Debug\net9.0\WebApi.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\WebApi\obj\Debug\net9.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\WebApi\obj\Debug\net9.0\WebApi.sourcelink.json
 C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\WebApi\obj\Debug\net9.0\scopedcss\bundle\WebApi.styles.css
 C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\WebApi\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\WebApi\obj\Debug\net9.0\staticwebassets.development.json
