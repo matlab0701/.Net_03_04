@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\bin\Debug\net9.0\Infrasturcture.deps.json
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\bin\Debug\net9.0\Infrasturcture.dll
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\bin\Debug\net9.0\Infrasturcture.pdb
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\bin\Debug\net9.0\Domain.dll
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\bin\Debug\net9.0\Domain.pdb
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrasturcture.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrasturcture.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrasturcture.AssemblyInfo.cs
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrasturcture.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrastu.B4844EC0.Up2Date
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrasturcture.dll
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\refint\Infrasturcture.dll
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\Infrasturcture.pdb
+C:\Users\HP\Desktop\Dot.net\class_tasks\class_02_04\Infrasturcture\obj\Debug\net9.0\ref\Infrasturcture.dll
